@@ -7,7 +7,7 @@ Work in progress (as of fall 2023), free to use  with acknowledgment
 
 ### JCuReS - Test Automation framework in Java using Java, Selenium, Cucumber, RestAssured
 
-**JCuReS** = **J**ava + **Cu**cumber +   **Re**stAssured **S**elenium 
+**JCuReS** = **J**ava + **Cu**cumber +   **Re**stAssured + **S**elenium 
 
 For more details visit [jcures.substack.com](https://jcures.substack.com/).
 
