@@ -1,2 +1,2 @@
 # JSeCuRe
-Test Automation framework in Java using SElenium, CUcumber, REstassured
+Test Automation framework in <b>J</b>ava using SElenium, CUcumber, REstassured
